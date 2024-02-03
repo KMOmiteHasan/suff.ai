@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe62d396.css",
+    "main.js": "/static/js/main.d1bdf09b.js",
+    "static/js/787.628eb0fa.chunk.js": "/static/js/787.628eb0fa.chunk.js",
+    "static/media/Wash-and-fold-1.png": "/static/media/Wash-and-fold-1.5a06c357a71ea71a98e6.png",
+    "static/media/ironing-1.png": "/static/media/ironing-1.e6ee875ac67631ca7ecf.png",
+    "static/media/Dry-cleaning-1.png": "/static/media/Dry-cleaning-1.fd3948904d9eabcbaf90.png",
+    "static/media/Suff-ai-Title-Image-large-reso.png": "/static/media/Suff-ai-Title-Image-large-reso.73e886b7e5ff09fd48b1.png",
+    "static/media/washing-machine.png": "/static/media/washing-machine.82beab89743bd5f7d662.png",
+    "static/media/Dry-cleaning.jpeg": "/static/media/Dry-cleaning.73bb3fc2d8a4a6817359.jpeg",
+    "static/media/wash-and-iron.jpeg": "/static/media/wash-and-iron.e39b7a5bd80c2beb3065.jpeg",
+    "static/media/Wash-and-fold.jpeg": "/static/media/Wash-and-fold.3681c5dcb298d8e0073c.jpeg",
+    "static/media/Ironing.jpeg": "/static/media/Ironing.bfa77d6dd403edcf7f33.jpeg",
+    "static/media/wash-and-iron-1.png": "/static/media/wash-and-iron-1.b34a93cf33d8a8061ff2.png",
+    "static/media/hero-bg.jpg": "/static/media/hero-bg.b43a3950d90fcbbbd6a2.jpg",
+    "static/media/suff-ai-logo-nobg.png": "/static/media/suff-ai-logo-nobg.5898031f77494cbad0e1.png",
+    "static/media/01.jpg": "/static/media/01.d0c83b166fa8dfb4190b.jpg",
+    "static/media/QR-code.jpg": "/static/media/QR-code.08193df2d340f368e6f5.jpg",
+    "static/media/suff-ai-logo-nobg-pink.png": "/static/media/suff-ai-logo-nobg-pink.4ef54d69cc1062d48172.png",
+    "static/media/magiesta.ttf": "/static/media/magiesta.c9cc9b4e8739882d6739.ttf",
+    "static/media/Grotta-Trial-Medium.ttf": "/static/media/Grotta-Trial-Medium.a9383eee5660f4107f48.ttf",
+    "static/media/Grotta-Trial-Semibold.ttf": "/static/media/Grotta-Trial-Semibold.49fb42fe7e8be49050f4.ttf",
+    "static/media/Grotta-Trial-Bold.ttf": "/static/media/Grotta-Trial-Bold.e4ba6e41c96ab2e7f554.ttf",
+    "static/media/Grotta-Trial-Light.ttf": "/static/media/Grotta-Trial-Light.3734573938f81ec07817.ttf",
+    "static/media/Grotta-Trial-Regular.ttf": "/static/media/Grotta-Trial-Regular.4ccbfb3713a7ff785c12.ttf",
+    "static/media/premium-laundry.png": "/static/media/premium-laundry.ee47d5a01441d3ab91b3.png",
+    "index.html": "/index.html",
+    "main.fe62d396.css.map": "/static/css/main.fe62d396.css.map",
+    "main.d1bdf09b.js.map": "/static/js/main.d1bdf09b.js.map",
+    "787.628eb0fa.chunk.js.map": "/static/js/787.628eb0fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe62d396.css",
+    "static/js/main.d1bdf09b.js"
+  ]
+}
